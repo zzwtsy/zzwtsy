@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=zzwtsy&count_private=true&show_icons=true&theme=radical" alt="User stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzwtsy&layout=compact&theme=radical" alt="Top languages" />
+  <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=zzwtsy&count_private=true&show_icons=true&theme=tokyonight" alt="User stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzwtsy&layout=compact&theme=tokyonight" alt="Top languages" />
   <a>
 </p>
