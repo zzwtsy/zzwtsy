@@ -5,6 +5,8 @@
   </a>
 </p>
 <p align="center">
-  <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=zzwtsy&count_private=true&show_icons=true&theme=dracula" alt="User stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzwtsy&layout=compact&theme=dracula" alt="Top languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=zzwtsy&count_private=true&show_icons=true&theme=radical" alt="User stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzwtsy&layout=compact&theme=radical" alt="Top languages" />
+  <a>
 </p>
