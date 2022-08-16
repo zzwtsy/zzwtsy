@@ -11,5 +11,5 @@
   <a>
 </p>
 <p align="center">
- <img width=90%" src="https://activity-graph.herokuapp.com/graph?username=zzwtsy&theme=xcode" align="center" alt="Github Activity" />
+ <img width=92%" src="https://activity-graph.herokuapp.com/graph?username=zzwtsy&theme=xcode" align="center" alt="Github Activity" />
 </p>
