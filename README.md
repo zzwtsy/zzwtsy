@@ -10,3 +10,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzwtsy&layout=compact&theme=tokyonight" alt="Top languages" />
   <a>
 </p>
+<p align="center">
+ <img width=85%" src="https://activity-graph.herokuapp.com/graph?username=zzwtsy&theme=xcode" align="center" alt="Github Activity" />
+</p>
