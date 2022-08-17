@@ -10,9 +10,9 @@
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img width="50%"
-            src="https://github-readme-stats.vercel.app/api?username=zzwtsy&count_private=true&show_icons=true&theme=tokyonight"
+            src="https://raw.githubusercontent.com/zzwtsy/github-stats-transparent/output/generated/overview.svg"
             alt="User stats" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzwtsy&layout=compact&theme=tokyonight"
+        <img src="https://raw.githubusercontent.com/zzwtsy/github-stats-transparent/output/generated/languages.svg"
             alt="Top languages" />
         <a>
 </p>
