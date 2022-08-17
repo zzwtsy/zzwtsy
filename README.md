@@ -1,13 +1,6 @@
 ### Hi there 👋
 <img src="https://ripgvc.herokuapp.com/?zzwtsy=aiocat&color=8c14fc&round">
 <p align="center">
-    <a href="https://github.com/Jurredr/github-widgetbox">
-        <img width="70%" height="70%"
-            src="https://github-widgetbox.vercel.app/api/profile?username=zzwtsy&data=followers,repositories,stars,commits"
-            alt="GitHub WidgetBox" />
-    </a>
-</p>
-<p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img width="46.5%" src="https://raw.githubusercontent.com/zzwtsy/github-stats-transparent/output/generated/overview.svg"
             alt="User stats" />
