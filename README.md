@@ -14,7 +14,7 @@
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img width="92%" src="https://skillicons.dev/icons?i=java,html,css&theme=dark" align="center"
+        <img src="https://skillicons.dev/icons?i=java,html,css,c,md,idea,vscode,docker,gradle,maven,github,git,linux,&theme=dark" align="center"
             alt="My Skills" />
         <a>
 </p>
