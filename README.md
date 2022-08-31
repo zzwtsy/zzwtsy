@@ -13,7 +13,7 @@
         alt="Github Activity" />
 </p>
 <p align="center">
-    <a href="https://skillicons.dev">
+    <a href="https://skillicons.dev" align="center">
         <img src="https://skillicons.dev/icons?i=java,bootstrap,html,css,c,md,idea,vscode,docker,gradle,maven,github,git,linux,&theme=dark" align="center"
             alt="My Skills" />
         <a>
