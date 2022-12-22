@@ -9,8 +9,10 @@
         <a>
 </p>
 <p align="center">
-    <img width="92%" src="https://activity-graph.herokuapp.com/graph?username=zzwtsy&theme=xcode" align="center"
-        alt="Github Activity" />
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img width="92%" src="https://github-readme-activity-graph.cyclic.app/graph?username=zzwtsy&theme=dracula" align="center"
+            alt="Github Activity" />
+    <a>
 </p>
 <p align="center">
     <a href="https://skillicons.dev">
