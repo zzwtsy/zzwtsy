@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img src="https://komarev.com/ghpvc/?username=zzwtsy&color=blueviolet">
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img width="46.5%" src="https://raw.githubusercontent.com/zzwtsy/github-stats-transparent/output/generated/overview.svg"
