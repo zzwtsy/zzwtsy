@@ -1,9 +1,9 @@
 ### Hi there 👋
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width="46.5%" src="https://raw.githubusercontent.com/zzwtsy/github-stats-transparent/output/generated/overview.svg"
+        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=zzwtsy&show_icons=true&theme=transparent"
             alt="User stats" />
-        <img width="46.5%" src="https://raw.githubusercontent.com/zzwtsy/github-stats-transparent/output/generated/languages.svg"
+        <img width="29%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzwtsy&layout=compact&theme=transparent&langs_count=100"
             alt="Top languages" />
         <a>
 </p>
