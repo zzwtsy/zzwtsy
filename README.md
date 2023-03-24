@@ -9,7 +9,7 @@
 </p>
 <p align="center">
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img width="92%" src="https://github-readme-activity-graph.cyclic.app/graph?username=zzwtsy&theme=dracula" align="center"
+        <img width="92%" src="https://github-readme-activity-graph.cyclic.app/graph?username=zzwtsy&bg_color=transparent&radius=10&color=006AFF&line=006AFF&point=FFF"
             alt="Github Activity" />
     <a>
 </p>
