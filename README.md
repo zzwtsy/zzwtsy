@@ -8,12 +8,6 @@
      <a>
 </p>
 <p align="center">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img width="92%" src="https://github-readme-activity-graph.cyclic.app/graph?username=zzwtsy&bg_color=transparent&radius=10&color=006AFF&line=006AFF&point=E4E2E2"
-            alt="Github Activity" />
-    <a>
-</p>
-<p align="center">
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java,kotlin,html,css,c,md,idea,vscode,docker,gradle,maven,github,git,linux"
             alt="My Skills" />
